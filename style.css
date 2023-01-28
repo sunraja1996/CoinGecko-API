@@ -1,0 +1,19 @@
+
+body {
+  background-color: #282828;
+  color: #f1f1f1;
+}
+
+
+#search {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+}
+
+.coin {
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #383838;
+}
